@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    width: 100%;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.donate-box {
+    padding-top: 150px;
+}
+
+.donate-font h1 {
+    color: white;
+    font-size: 60px;
+    width: 60%;
+    padding-left: 20%;
+    text-align: center;
+    margin: 0;
+}
+
+
+.donate-font p {
+    color: white;
+    width: 40%;
+    padding-left: 30%;
+    text-align: center;
+    font-weight: normal;
+}
+
+.donate-button {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.donate-button a {
+    background-color: salmon;
+    padding: 1% 1%;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
